@@ -1,8 +1,8 @@
 # OOP-PYTHON
 
-NAMA: LENI
+NAMA: Indah wafikah
 
-NIM: 312410442
+NIM: 312410559
 
 ## Deskripsi
 Program ini merupakan program manajemen data mahasiswa yang dibangun menggunakan Python. Program ini memungkinkan pengguna untuk menambah, mengubah, menghapus, dan mencari data mahasiswa. Data mahasiswa disimpan dalam format JSON, sehingga mudah untuk dibaca dan dikelola.
